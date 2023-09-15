@@ -5,5 +5,4 @@
  * 
  */
 module TestGit {
-	// ciao salvoùini
 }
